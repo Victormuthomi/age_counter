@@ -1,38 +1,30 @@
-# Airbnb Project
+# Age Calculator
 
 ## Description
-This project is a web application that lists Airbnb properties and moving services. Users can view property details, check availability, and book properties. Additionally, users can view moving services and book them for relocation.
+Age Calculator is a Python program that calculates the age of a user given their birth date. It's a simple and efficient tool for anyone who wants to find out their age in years.
 
 ## Features
-- **Property Listing**: Displays a list of Airbnb properties with details such as name, location, price, number of rooms, and availability.
-- **Booking**: Allows users to book available properties.
-- **Moving Services**: Lists the moving services offered.
-- **Service Booking**: Allows users to book a moving service for relocation.
+- **Age Calculation**: Calculates the age of a user when provided with the day, month, and year of birth.
 
 ## Installation
 1. Clone the repository:
     ```
-    git clone https://github.com/Victormuthomi/airbnb-project.git
+    git clone https://github.com/Victormuthomi/age-calculator.git
     ```
 2. Navigate to the project directory:
     ```
-    cd airbnb-project
-    ```
-3. Install the required dependencies:
-    ```
-    pip install -r requirements.txt
-    ```
-4. Run the server:
-    ```
-    python manage.py runserver
+    cd age-calculator
     ```
 
 ## Usage
-1. Browse the listed properties and moving services.
-2. Book a property or a moving service as per your requirements.
+1. Run the Python script:
+    ```
+    python age_calculator.py
+    ```
+2. Enter your birth date when prompted. The format should be day, month, and year.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-victor muthomi
+victormuthomi
