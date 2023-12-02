@@ -9,17 +9,17 @@ Age Calculator is a Python program that calculates the age of a user given their
 ## Installation
 1. Clone the repository:
     ```
-    git clone https://github.com/Victormuthomi/age-calculator.git
+    git clone https://github.com/Victormuthomi/age_counter.git
     ```
 2. Navigate to the project directory:
     ```
-    cd age-calculator
+    cd age_counter
     ```
 
 ## Usage
 1. Run the Python script:
     ```
-    python age_calculator.py
+    python age_counter.py
     ```
 2. Enter your birth date when prompted. The format should be day, month, and year.
 
