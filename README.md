@@ -27,4 +27,4 @@ Age Calculator is a Python program that calculates the age of a user given their
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-victormuthomi
+Kibanga
